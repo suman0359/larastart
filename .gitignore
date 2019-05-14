@@ -1,3 +1,7 @@
+
+.phpunit.result.cache
+yarn-error.log
+
 vendor/
 node_modules/
 npm-debug.log
